@@ -10,5 +10,3 @@ However, since there has been a lot of research in the field of GAN-based archit
 
 ![output](https://user-images.githubusercontent.com/57033123/146217963-c065b593-ce9c-419b-9573-e0411ba83f01.png)
 ![output2](https://user-images.githubusercontent.com/57033123/146217982-2527f506-c504-416c-9899-6d7abfbc7217.png)
-![output3](https://user-images.githubusercontent.com/57033123/146217989-62a70d41-3eed-4a03-baa8-42c2babdc3b9.png)
-![output4](https://user-images.githubusercontent.com/57033123/146217997-f7cc051c-75a4-4315-881f-f07671d09ed5.png)
