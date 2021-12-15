@@ -6,8 +6,8 @@ However, since there has been a lot of research in the field of GAN-based archit
 ***
 
 Source of training set：http://vision.mas.ecp.fr/Personnel/teboul/data.php
+                        https://www.kaggle.com/balraj98/facades-dataset
 
-***
 
 ## Here are some training results
 
